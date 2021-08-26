@@ -1,0 +1,10 @@
+Usage
+=====
+Simply execute main.py
+
+
+Output
+======
+Runtime logs are written to stderr.
+Human-readable results are written to stdout
+CSV-formatted results are written to result.csv 
